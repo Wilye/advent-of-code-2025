@@ -1,0 +1,6 @@
+new dial: 67
+new dial: 95
+new dial: 3
+new dial: 78
+new dial: 11
+Number of times the dial hit zero: 1120
